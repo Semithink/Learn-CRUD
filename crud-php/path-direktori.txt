@@ -1,0 +1,15 @@
+default
+D:\xampp\htdocs\crud-php\..
+
+<?php
+include 'D:\xampp\htdocs\crud-php\layout/header.php';
+?>
+
+<?php
+include 'database.php';
+?>
+
+<?php
+include 'D:\xampp\htdocs\crud-php\layout/footer.php';
+?>
+
